@@ -1,0 +1,11 @@
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/repository/AuthorityRepository.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/controller/RegisterController.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/StaybookingApplication.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/config/SecurityConfig.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/repository/UserRepository.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/model/UserRole.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/exception/UserAlreadyExistException.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/model/Authority.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/controller/CustomExceptionHandler.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/service/RegisterService.java
+/Users/benranzhang/Desktop/Everything/staybooking/src/main/java/com/laioffer/staybooking/model/User.java
